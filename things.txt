@@ -1,0 +1,11 @@
+
+
+
+
+
+update: winMsg, auto new start new game;
+
+
+
+new things: transform origin, array.from(class)
+
